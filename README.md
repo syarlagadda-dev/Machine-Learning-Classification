@@ -11,3 +11,5 @@ In terms of impact, this report has interesting ramifications. A major considera
 It is important to note a couple of limitations. The scope of this project means that we don't know whether high-importance characteristics like age have a positive or negative correlation with income—we’ll need another separate analysis to find out. This project also lacks granularity, since we use the very broad categories of ">50K income" and "<=50K income." Although this doesn’t affect importance weight much, it does limit detail.
 
 Another consideration is that, due to a lack of data volume for people who make more than 50K annually, the ML model has some trouble correctly sorting that group. This imbalance may slightly affect the importance weights as well.
+
+References/Dataset: https://www.kaggle.com/code/aditimulye/adult-income-dataset-from-scratch 
